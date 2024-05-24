@@ -1,0 +1,12 @@
+Paper_ES	Paper_ID	Paper	Host_spp	Host_strain	Host_family	Symbiont_spp	Symbio_line	Symbio_type	Symbio_introgression	Temperature	Rearing	Nutrition	Competition	Uninfected_symbio_strain	Experiment	Sex	Stage	Measure	Group_measure	n	yi	vi	Obs
+P0001	P007	Cao_et_al_2019	Drosophila_simulans	NA	Drosophilidae	Wolbachia	wAu	Natural	Natural	25	Agar-treacle-yeast	NA	NA	Natural	Lab	Female	Adult	Weight	Body_size	210	0.293	0.019	ANOVA
+P0002	P007	Cao_et_al_2019	Drosophila_simulans	NA	Drosophilidae	Wolbachia	wAu	Natural	Natural	25	Agar-treacle-yeast	NA	NA	Natural	Lab	Male	Adult	Weight	Body_size	198	0.287	0.02	ANOVA
+P0003	P007	Cao_et_al_2019	Drosophila_simulans	NA	Drosophilidae	Wolbachia	wAu	Natural	Natural	25	Agar-treacle-yeast	NA	NA	Natural	Lab	NA	Immature	Fecundity	Fecundity	242	0.513	0.017	ANOVA
+P0004	P021	Harcombe_et_al_2004	Drosophila_melanogaster	NA	Drosophilidae	Wolbachia	wMel	Natural	Natural	NA	Sucrose-agar-yeast_100%	High	NA	Antibiotic	Lab	Female	Adult	Wing_size	Body_size	324	4.389	0.042	ANOVA
+P0005	P136	Turley_et_al_2013	Aedes_aegypti	NA	Culicidae	Wolbachia	NA	Not_natural	Microinjection	26	Sucrose_solution	NA	NA	Antibiotic	Lab	Male	Adult	Wing_length	Body_size	60	0.189	0.067	ANOVA
+P0006	P136	Turley_et_al_2013	Aedes_aegypti	PGYP1	Culicidae	Wolbachia	wMelPop	Not_natural	Microinjection	26	Sucrose_solution	NA	NA	Antibiotic	Lab	Male	Adult	Fertility	Fecundity	40	0.482	0.102	ANOVA
+P0007	P144	Xue_et_al_2012	Bemisia_tabaci	MED	Other	Wolbachia	NA	Natural	Natural	26	Cowpea	NA	NA	Antibiotic	Lab	NA	Adult	Longevity	Survival	201	1.05	0.0226	ANOVA
+P0008	P144	Xue_et_al_2012	Bemisia_tabaci	MED	Other	Wolbachia	NA	Natural	Natural	26	Cowpea	NA	NA	Antibiotic	Lab	NA	Immature	Survival	Survival	201	0.751	0.0213	ANOVA
+P0009	P144	Xue_et_al_2012	Bemisia_tabaci	MED	Other	Wolbachia	NA	Natural	Natural	26	Cowpea	NA	NA	Antibiotic	Lab	NA	Immature	Development_time	Development_time	201	-0.667	0.0211	ANOVA
+P0010	P144	Xue_et_al_2012	Bemisia_tabaci	MED	Other	Wolbachia	NA	Natural	Natural	26	Cowpea	NA	NA	Antibiotic	Lab	NA	Adult	Body_size	Body_size	101	1.778	0.055	ANOVA_length
+P0011	P144	Xue_et_al_2012	Bemisia_tabaci	MED	Other	Wolbachia	NA	Natural	Natural	26	Cowpea	NA	NA	Antibiotic	Lab	NA	Adult	Body_size	Body_size	101	2.259	0.0649	ANOVA_width

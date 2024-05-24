@@ -1,0 +1,51 @@
+Table names:
+
+STATISTICS: data extracted from inferential statistics such as ANOVA results
+OR: data collected to calculate odds ratio (proportion/number of events)
+HEDGES: data collected to calculate Hedges'g (mean and standard deviation)
+protection: data collected from hosts under attack of natural enemies (protection data)
+costhost: data collected from hosts that were not under attack of natural enemies (cost to the host data)
+naturalenemy: data collected from natural enemies infecting hosts harboring or not symbionts (cost to the natural enemy data)
+
+Table coding:
+
+Paper_ES: Effect size ID (number in the table)
+Paper_ID: Study ID (number in the table)
+Paper: Authors and year of the study
+Host_spp: Host species
+Host_strain: Strain of the host species
+Host_family: Family the host species belongs to
+Symbiont_spp: Symbiont species
+Symbio_line: Line/strain of the symbiont species
+Symbio_type: If symbiont is natural or was introduced/transinfected into the host species
+Symbio_introgression: How symbiont was introgressed into the host species
+Natural_enemy_spp: Natural enemy species
+NE_group: Group which the natural enemy belongs to - virus, parasitoid, bacteria, fungus, nematode, protozoan
+NE_line: Line/strain of the natural enemy species
+NE_type: If the natural enemy is generalist of specialist 
+Temperature: Temperature in which experiment was conducted
+Rearing: Substrate/food in which hosts were reared
+NE_infection: How host were infected which natural enemies (stabbed, microinjected, etc.)
+Uninfected_symbio_strain: How control groups (without symbionts) were obtained (treatment with antibiotics, naturally uninfected)
+Experiment: If the experiment was conducted in nature (wild) or in the laboratory
+Sex: Sex of the host - male or female
+Stage: Life stage of the host in which the experiment was performed
+Measure: Fitness component of hosts (or natural enemies, for natural enemy data) that was measured in the experiment
+Group_measure: Fitness measures grouped into broad categories - survival, fecundity, development time, body size, natural enemy load, and uninfected individuals
+N_t: Sample size of treatment group
+N_c: Sample size of control group
+Mean_t: Mean from the treatment group (used to calculate Hedges'g)
+SD_t: Standard deviation from the treatment group (used to calculate Hedges'g)
+Mean_c: Mean from the control group (used to calculate Hedges'g)
+SD_c: Mean from the control group (used to calculate Hedges'g)
+Prop_t: Proportion of individuals alive/uninfected/egg hatch in the treatment group (used to calculate odds ratio)
+Alive_t: Number of individuals alive/uninfected/eggs that hatched in the treatment group (used to calculate odds ratio)
+Dead_t: Number of individuals dead/infected/eggs that didn't hatched in the treatment group (used to calculate odds ratio)
+Prop_c: Proportion of individuals alive/uninfected/egg hatch in the control group (used to calculate odds ratio)
+Alive_c: Number of individuals alive/uninfected/eggs that hatched in the control group (used to calculate odds ratio)
+Dead_c: Number of individuals dead/infected/eggs that didn't hatched in the control group (used to calculate odds ratio)
+yi: Mean effect size - Hedges' g (when data was extracted from inferential statistics such as ANOVA results)
+vi: variance (when data was extracted from inferential statistics such as ANOVA results)
+Obs: Any observation regarding the data collected
+
+

@@ -1,0 +1,5 @@
+Paper_ES	Paper_ID	Paper	Host_spp	Host_strain	Host_family	Symbiont_spp	Symbio_line	Symbio_type	Symbio_introgression	Natural_enemy_spp	NE_group	NE_line	NE_type	Temperature	Rearing	NE_infection	Uninfected_symbio_strain	Experiment	Sex	Stage	Measure	Group_measure	n	yi	vi	Obs
+P0001	P007	Cao_et_al_2019	Drosophila_simulans	NA	Drosophilidae	Wolbachia	wAu	Natural	Natural	Talaromyces_Penicillium	Fungus	NA	Generalist	25	Grape	Oral	Natural	Lab	Female	Adult	Weight	Body_size	191	0.001	0.0209	ANOVA
+P0002	P007	Cao_et_al_2019	Drosophila_simulans	NA	Drosophilidae	Wolbachia	wAu	Natural	Natural	Talaromyces_Penicillium	Fungus	NA	Generalist	25	Grape	Oral	Natural	Lab	Male	Adult	Weight	Body_size	193	0.119	0.0208	ANOVA
+P0003	P007	Cao_et_al_2019	Drosophila_simulans	NA	Drosophilidae	Wolbachia	wAu	Natural	Natural	Talaromyces_Penicillium	Fungus	NA	Generalist	25	Grape	Oral	Natural	Lab	NA	Immature	Fecundity	Fecundity	120	0.396	0.034	ANOVA_9_11_yo_parents
+P0004	P007	Cao_et_al_2019	Drosophila_simulans	NA	Drosophilidae	Wolbachia	wAu	Natural	Natural	Talaromyces_Penicillium	Fungus	NA	Generalist	25	Grape	Oral	Natural	Lab	NA	Immature	Fecundity	Fecundity	106	0.367	0.038	ANOVA_12_14_yo_parents
